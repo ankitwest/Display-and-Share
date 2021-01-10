@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Kotlin1</string>
+
+    <string name= "btn_show_toast">Show Toast</string>
+
+
+
+</resources>
